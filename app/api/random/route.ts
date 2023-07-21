@@ -18,6 +18,8 @@ function generateRandomAlphaNum(): string {
     }
   }
 
+  // random api
+
   return result;
 }
 
