@@ -4,3 +4,5 @@ its create a database name databasename
 \c databasename
  \dt
  SELECT * FROM "User";
+
+if use GET then use GET, if use method post then use POST
